@@ -15,6 +15,11 @@ import java.util.Locale;
  */
 public class LocalTime1 {
 
+	// Adding a test method
+	public String test() {
+		return "I tested and its fine";
+	}
+    
     public static void main(String[] args) {
 
     	//Adding a new comments.
@@ -22,9 +27,9 @@ public class LocalTime1 {
         // Adding a new comment in GitHub
         // Adding another comment in GitHub
         // Adding yet another comment in GitHub
-        
+
        //  Adding fourth comment!
-        
+
         Clock clock = Clock.systemDefaultZone();
         long t0 = clock.millis();
         System.out.println(t0);
