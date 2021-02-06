@@ -20,6 +20,7 @@ public class LocalTime1 {
     	//Adding a new comments.
     	
         // Adding a new comment in GitHub
+        // Adding another comment in GitHub
         // get the current time
         Clock clock = Clock.systemDefaultZone();
         long t0 = clock.millis();
