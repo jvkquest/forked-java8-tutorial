@@ -17,6 +17,8 @@ public class LocalTime1 {
 
     public static void main(String[] args) {
 
+    	//Adding a new comments.
+    	
         // get the current time
         Clock clock = Clock.systemDefaultZone();
         long t0 = clock.millis();
